@@ -1,0 +1,13 @@
+name: fran
+scaled: true
+for: time
+wod_details:
+  21 30kg thrusters
+  21 jumping pullups
+  15 30kg thrusters
+  15 jumping pullups
+  9 30kg thrusters
+  9 jumping pullups
+result: 7m10s
+
+

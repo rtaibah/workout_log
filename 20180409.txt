@@ -1,13 +1,16 @@
-name: fran
-scaled: true
+name: 
+scaled: false 
 for: time
 wod_details:
-  21 30kg thrusters
-  21 jumping pullups
-  15 30kg thrusters
-  15 jumping pullups
-  9 30kg thrusters
-  9 jumping pullups
-result: 7m10s
+  30 standing cleans
+  30 box jumps
+  20m lunges
+  20 standing cleans
+  20 box jumps
+  20m lunges
+  10 standing cleans
+  10 box jumps
+  20m lunges
+result: 10m50s
 
 
