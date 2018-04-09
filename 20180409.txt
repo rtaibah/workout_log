@@ -2,13 +2,13 @@ name:
 scaled: false 
 for: time
 wod_details:
-  30 standing cleans
+  30 30kg standing cleans
   30 box jumps
   20m lunges
-  20 standing cleans
+  20 30kg standing cleans
   20 box jumps
   20m lunges
-  10 standing cleans
+  10 30kg standing cleans
   10 box jumps
   20m lunges
 result: 10m50s
