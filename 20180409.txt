@@ -12,5 +12,3 @@ wod_details:
   10 box jumps
   20m lunges
 result: 10m50s
-
-

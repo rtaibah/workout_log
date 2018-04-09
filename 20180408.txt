@@ -9,5 +9,3 @@ wod_details:
   9 30kg thrusters
   9 jumping pullups
 result: 7m10s
-
-
