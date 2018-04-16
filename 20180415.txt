@@ -1,0 +1,10 @@
+name:
+scaled: false
+for: time
+wod_details:
+  3 rounds of:
+    21 16kg kb swings
+    21 situps
+    21 alternating leg water extractions
+result: 12m45s
+
