@@ -1,0 +1,19 @@
+wod1:
+  name: 
+  scaled: false 
+  for: amrap 
+  time: 8 minutes
+  wod_details:
+    8 burpees-over-the-box
+    20 kb swings
+  result: 3
+
+wod2:
+  name: 
+  scaled: false 
+  for: time
+  for: reps 
+  wod_details:
+    21-15-9 40kg deadlifts
+    21-15-9 box pullups
+  result: 4:00
