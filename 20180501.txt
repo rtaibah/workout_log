@@ -1,0 +1,8 @@
+name: 
+scaled: false 
+for: amrap 
+wod_details:
+    10 14 breast ups
+    10 24 kg kettleball swings
+    10 box jump
+result: 4 

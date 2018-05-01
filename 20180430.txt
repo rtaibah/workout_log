@@ -1,0 +1,6 @@
+name: grace
+scaled: true 
+for: time 
+wod_details:
+  30 30kg clean and jerk
+result: 5:00 
