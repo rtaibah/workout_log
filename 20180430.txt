@@ -4,3 +4,5 @@ for: time
 wod_details:
   30 30kg clean and jerk
 result: 5:00 
+
+1rm front squat: 66kg
