@@ -1,0 +1,13 @@
+name: 
+scaled: false 
+for: time 
+wod_details:
+  cash in: 20 cal assault bike
+  21 60kg deadlift
+  100 single unders
+  15 60kg deadlift
+  100 single unders
+  9 60kg deadlift
+  100 single unders
+  cash out: 40m 15kg overhead lunges
+result: 16m
