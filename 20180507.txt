@@ -1,0 +1,13 @@
+name: 
+scaled: 
+for: amrap 20m 
+wod_details:
+  40 9kg medball cleans
+  40 9kg ball toss
+  30 9kg medball cleans
+  30 9kg ball toss
+  20 9kg medball cleans
+  20 9kg ball toss
+  10 9kg medball cleans
+  10 9kg ball toss
+result: 1.30 

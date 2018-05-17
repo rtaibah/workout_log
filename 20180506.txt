@@ -1,0 +1,13 @@
+name: 
+scaled: 
+for: time
+wod_details:
+  30 50kg deadlift 
+  30 calories assault bike
+  20 50kg deadlift 
+  20 calories assault bike
+  10 50kg deadlift 
+  10 calories assault bike
+  5 50kg deadlift 
+  5 calories assault bike
+result: 11m46s
