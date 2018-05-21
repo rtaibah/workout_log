@@ -1,0 +1,24 @@
+wod1:
+  name: 
+  scaled: false 
+  for: time 
+  wod_details:
+    21 12kg squat thrusters 
+    21 box pullups
+    15 12kg squat thrusters 
+    15 box pullups
+    9 12kg squat thrusters 
+    9 box pullups
+  result: 8m50s
+wod2:
+  name: 
+  scaled: false 
+  for: time 
+  wod_details:
+    21 60kg deadlifts
+    21 pushups
+    15 60kg deadlifts
+    15 pushups
+    9 60kg deadlifts
+    9 pushups
+  result: 5m50s

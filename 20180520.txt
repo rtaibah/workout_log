@@ -1,0 +1,14 @@
+name: 
+scaled: false 
+for: time 
+wod_details:
+  21 24kg kb swing
+  21 32 kb deadlift
+  21 deficit pushup
+  15 24kg kb swing
+  15 32 kb deadlift
+  15 deficit pushup
+  9 24kg kb swing
+  9 32 kb deadlift
+  9 deficit pushup
+result: 14m50s
