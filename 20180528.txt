@@ -1,0 +1,15 @@
+warm up:
+  2 rounds:
+    15 calorie assault bike
+    10 pushups
+    10 squats
+  3RM: 55kg push breasts
+  10RM: 55kg thrusters 
+wod1:
+  name: 
+  scaled: false 
+  for: time 
+  wod_details:
+    2000 meters rowing emom
+    5 9kg wall balls
+  result: 13m52s
